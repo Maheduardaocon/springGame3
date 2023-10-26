@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(203, 148, 228);
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+
+}
+
+button {
+    background-color: #6a13db68;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 23px;
+    transition: transform 0.3s ease;
+    border-radius: 70px;
+    
+}
+
+  h1 {
+    text-align: center;
+    color: #7811b4;
+  }
+  
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 40%;
+    padding: 9px;
+    margin-top: 9px;
+    margin-bottom: 19px;
+    border: 1px solid #690df3;
+    border-radius: 30px;
+  }
